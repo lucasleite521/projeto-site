@@ -1,2 +1,2 @@
-# projeto-site
- projeto criado assimilando um curso
+# projeto-site #
+ Estudo de git branches e HTML
